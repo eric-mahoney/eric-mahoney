@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Eric - I'm a Junior Software Developer @ Black Cape.
+Hi, I'm Eric - I'm a Developer @ Black Cape.
 
 ### Social Links 
 
